@@ -3,6 +3,6 @@ Sometimes it takes time to examine the links one by one. So I coded a simple too
 
 ## Usage:
 
-###### python3 get-links.py -u https://target.com
+##### python3 get-links.py -u https://target.com
 
 no many parameters no cry 😎
