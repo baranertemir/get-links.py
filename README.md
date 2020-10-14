@@ -3,6 +3,6 @@
 
 ## Usage:
 
-##### python3 get-links.py -u https://target.com
+python3 get-links.py -u https://target.com
 
 no many parameters no cry 😎
